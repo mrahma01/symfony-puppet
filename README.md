@@ -1,15 +1,16 @@
  Usage
 -------
 
-- git clone git@github.com:mrahma01/symfony-puppet.git
+1. git clone git@github.com:mrahma01/symfony-puppet.git
 
-- cd symfony-puppet/symfony101
+2. cd symfony-puppet/symfony101
 
-- composer install
+3. composer install
+  * (Assuming you have composer installed locally)
 
-- cd ../
+4. cd ../
 
-- vagrant up
-.. * If you don't have a vagrant box called precise32 it will download from the CDN
+5. vagrant up
+  * If you don't already have a box called precise32 it will download from the CDN
 
-- [click](http://symfony101.dev/) to see the starting page
+6. [__Click Here__](http://symfony101.dev/) to see the starting page
