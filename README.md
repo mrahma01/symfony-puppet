@@ -14,4 +14,4 @@
   * If you don't already have a box called precise32 it will download from the CDN
 
 6. [__Click Here__](http://symfony101.dev/) to see the starting page
-  * Considering you have added [__33.33.33.33	symfony101.dev__] in your host file
+  * Considering you have added [__33.33.33.33	symfony101.dev__] in your local /etc/hosts
